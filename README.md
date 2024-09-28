@@ -89,7 +89,7 @@ github repo
 
 ## Authors
 
-* moahmed amine tarza, [@mj31508](https://github.com/tarza2)
+* moahmed amine tarza, @mrboot(https://github.com/tarza2)
 
 
 ## License
